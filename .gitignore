@@ -1,3 +1,4 @@
 # SQLite database file for the application
 /database.sqlite
 /uploads
+node_modules
